@@ -1,0 +1,4 @@
+Fitur 1:
+- Membuat tampilan form login dan register
+- Menambahkan validasi untuk tiap-tiap input didalam form
+- Menambahkan dengan membuat fungsionalitas untuk tiap-tiap form
