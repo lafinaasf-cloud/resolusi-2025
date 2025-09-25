@@ -2,3 +2,4 @@ Plan 1 Resolusiku:
 1. Bangun lebih awal, siapin kopi, berdoa dan mulai belajar bahasa pemograman
 2. Mencatat setiap materi yang didapat serta dipraktikan dengan menulis ulang kode pemograman yg didapat atau membuat project latihan
 3. Beribadah jangan ditinggalkan, karena usaha tanpa doa = sombong
+4. Tidur yang cukup, jangan begadang
